@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Account Quizzi</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/lib/jcalendar-1.4.jar</name>
+			<type>1</type>
+			<location>C:/Users/HUONG GIANG/Downloads/jcalendar-1.4 (7)/lib/jcalendar-1.4.jar</location>
+		</link>
+		<link>
+			<name>src/lib/rs2xml.jar</name>
+			<type>1</type>
+			<location>C:/Users/HUONG GIANG/Downloads/rs2xml.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
